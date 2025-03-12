@@ -1,6 +1,7 @@
 2111024
 2111934
-- [File_Processori](processori.md)
-- [Schede madri](schede_madri.md)
+## Componenti
+- [componenti/File_Processori](processori.md)
+- [compomenti/Schede madri](schede_madri.md)
 Elettronica Padovana
 
