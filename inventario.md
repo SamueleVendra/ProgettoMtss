@@ -3,5 +3,6 @@
 ## Componenti
 - [componenti/File_Processori](processori.md)
 - [compomenti/Schede madri](schede_madri.md)
+## Periferiche
 Elettronica Padovana
 
